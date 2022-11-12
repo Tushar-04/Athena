@@ -14,7 +14,7 @@ pip install virtualenv
 2. **Running virtual environment:**
 
 ```
-cd .\Cometlabs-assignment\
+cd .\Athena\
 ```
 
 ```
